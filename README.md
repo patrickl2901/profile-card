@@ -1,6 +1,6 @@
 # Profile Card Component
  
-## Profile card component that displays well on desktop and mobile.
+ Profile card component that displays well on desktop and mobile.
 
 
 <h2>Built With:</h2>
