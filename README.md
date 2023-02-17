@@ -1,4 +1,4 @@
-# Profile Card Component
+# Profile Card Component - frontendmentor.io
  
  Profile card component that displays well on desktop and mobile.
 
